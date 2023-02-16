@@ -7,7 +7,7 @@ Full-Stack Developer
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [Amonthep-Port](http://amonthep-port.netlify.app/)
 * ✉️  You can contact me at [amontheptanlaeo111@gmail.com](mailto:amontheptanlaeo111@gmail.com)
-* 🧠  I'm learning NextJS / VueJS
+* 🧠  I'm learning NextJS / VueJS / NestJS
 
 ### Skills
 
