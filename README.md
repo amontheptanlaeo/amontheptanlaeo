@@ -34,8 +34,8 @@ const amonthep = {
   frontend: ["React", "Next.js", "Vue", "Astro", "TypeScript", "Tailwind"],
   backend: ["Node.js", "NestJS", "Go", "Rust", "Python", "PHP", "C#", "C"],
   mobile: ["Flutter", "React Native"],
-  database: ["PostgreSQL", "MySQL", "MongoDB"],
-  cloud: ["AWS", "GCP", "Cloudflare", "Vercel", "Docker", "Kubernetes"],
+  database: ["PostgreSQL", "MySQL", "MongoDB", "Supabase", "Neon"],
+  cloud: ["AWS", "GCP", "Cloudflare", "Vercel", "Netlify", "Docker", "Kubernetes"],
   motto: "I am always learning 🧠",
 };
 ```
@@ -63,11 +63,11 @@ const amonthep = {
 
 **Mobile & Database**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,postgres,mysql,mongodb&perline=11" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,postgres,mysql,mongodb,supabase&perline=11" /><img src="./assets/neon.svg" alt="Neon" />
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,git,github&perline=11" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,netlify,docker,kubernetes,git,github&perline=11" />
 
 </div>
 
