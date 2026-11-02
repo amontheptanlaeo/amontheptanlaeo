@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Amonthep;Full-Stack+Developer+%F0%9F%92%BB;Next.js+%E2%80%A2+Go+%E2%80%A2+Rust+%E2%80%A2+Flutter;Shipping+on+AWS+%E2%80%A2+GCP+%E2%80%A2+Cloudflare+%E2%98%81%EF%B8%8F;Always+learning+something+new+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Amonthep;Full-Stack+Developer+%F0%9F%92%BB;Next.js+%E2%80%A2+Go+%E2%80%A2+Rust+%E2%80%A2+Flutter+%E2%80%A2+React+Native;Shipping+on+AWS+%E2%80%A2+GCP+%E2%80%A2+Cloudflare+%E2%98%81%EF%B8%8F;Always+learning+something+new+%F0%9F%A7%A0" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,7 +33,7 @@ const amonthep = {
   location: "Bangkok, Thailand 🇹🇭",
   frontend: ["React", "Next.js", "Vue", "Astro", "TypeScript", "Tailwind"],
   backend: ["Node.js", "NestJS", "Go", "Rust", "Python", "PHP", "C#", "C"],
-  mobile: ["Flutter"],
+  mobile: ["Flutter", "React Native"],
   database: ["PostgreSQL", "MySQL", "MongoDB"],
   cloud: ["AWS", "GCP", "Cloudflare", "Vercel", "Docker", "Kubernetes"],
   motto: "I am always learning 🧠",
@@ -63,7 +63,7 @@ const amonthep = {
 
 **Mobile & Database**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,postgres,mysql,mongodb&perline=11" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,reactnative,postgres,mysql,mongodb&perline=11" />
 
 **Cloud & DevOps**
 
