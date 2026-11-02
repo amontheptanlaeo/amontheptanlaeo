@@ -4,12 +4,12 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Amonthep;Full-Stack+Developer+%F0%9F%92%BB;React+%E2%80%A2+Vue+%E2%80%A2+Next.js+%E2%80%A2+NestJS;Always+learning+something+new+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Amonthep;Full-Stack+Developer+%F0%9F%92%BB;Next.js+%E2%80%A2+Go+%E2%80%A2+Rust+%E2%80%A2+Flutter;Shipping+on+AWS+%E2%80%A2+GCP+%E2%80%A2+Cloudflare+%E2%98%81%EF%B8%8F;Always+learning+something+new+%F0%9F%A7%A0" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://amonthep-port.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://amonthep.elizos.com/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amonthep-tanlaeo-a295051b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:amontheptanlaeo111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.stackoverflow.com/users/14633417"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
@@ -31,16 +31,17 @@
 const amonthep = {
   role: "Full-Stack Developer",
   location: "Bangkok, Thailand 🇹🇭",
-  frontend: ["React", "Next.js", "Vue", "TypeScript", "Tailwind"],
-  backend: ["Node.js", "Express", "NestJS"],
-  database: ["MongoDB", "MySQL", "Firebase"],
-  web3: ["MetaMask"],
+  frontend: ["React", "Next.js", "Vue", "Astro", "TypeScript", "Tailwind"],
+  backend: ["Node.js", "NestJS", "Go", "Rust", "Python", "PHP", "C#", "C"],
+  mobile: ["Flutter"],
+  database: ["PostgreSQL", "MySQL", "MongoDB"],
+  cloud: ["AWS", "GCP", "Cloudflare", "Vercel", "Docker", "Kubernetes"],
   motto: "I am always learning 🧠",
 };
 ```
 
 - 🌍 Based in **Bangkok**
-- 🖥️ Portfolio → **[amonthep-port.netlify.app](https://amonthep-port.netlify.app/)**
+- 🖥️ Portfolio → **[amonthep.elizos.com](https://amonthep.elizos.com/)**
 - ✉️ Contact → **[amontheptanlaeo111@gmail.com](mailto:amontheptanlaeo111@gmail.com)**
 - ⚡ Fun fact: coffee in, code out ☕
 
@@ -54,15 +55,19 @@ const amonthep = {
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,tailwind,sass,bootstrap,materialui&perline=11" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,astro,tailwind&perline=11" />
 
-**Backend & Database**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,firebase&perline=11" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,rust,python,php,cs,c&perline=11" />
 
-**Tools & Deploy**
+**Mobile & Database**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,heroku,netlify,vercel&perline=11" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,postgres,mysql,mongodb&perline=11" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,docker,kubernetes,git,github&perline=11" />
 
 </div>
 
