@@ -63,7 +63,7 @@ const amonthep = {
 
 **Mobile & Database**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,reactnative,postgres,mysql,mongodb&perline=11" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,postgres,mysql,mongodb&perline=11" />
 
 **Cloud & DevOps**
 
