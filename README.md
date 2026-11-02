@@ -1,52 +1,95 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amonthep tanlaeo
-========================================================================================================================================
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:6366f1,100:a855f7&height=220&section=header&text=Amonthep%20Tanlaeo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%F0%9F%9A%80%20Bangkok%2C%20Thailand&descAlignY=58&descSize=20" width="100%" />
 
-Full-Stack Developer
---------------------
+<div align="center">
 
-* 🌍  I'm based in Bangkok
-* 🖥️  See my portfolio at [Amonthep-Port](http://amonthep-port.netlify.app/)
-* ✉️  You can contact me at [amontheptanlaeo111@gmail.com](mailto:amontheptanlaeo111@gmail.com)
-* 🧠  I am always learning
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Amonthep;Full-Stack+Developer+%F0%9F%92%BB;React+%E2%80%A2+Vue+%E2%80%A2+Next.js+%E2%80%A2+NestJS;Always+learning+something+new+%F0%9F%A7%A0" alt="Typing SVG" />
+</a>
 
-### Skills
+<br/>
 
+<a href="https://amonthep-port.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amonthep-tanlaeo-a295051b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:amontheptanlaeo111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.stackoverflow.com/users/14633417"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+<a href="https://www.buymeacoffee.com/amonthep.ta"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-</p>
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=amontheptanlaeo&label=Profile%20views&color=0891b2&style=flat-square" alt="profile views" />
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/amontheptanlaeo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amonthep-tanlaeo-a295051b9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14633417" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
+## 🧑‍💻 About Me
 
-<b>My GitHub Stats</b>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<a href="http://www.github.com/amontheptanlaeo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=amontheptanlaeo&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+```ts
+const amonthep = {
+  role: "Full-Stack Developer",
+  location: "Bangkok, Thailand 🇹🇭",
+  frontend: ["React", "Next.js", "Vue", "TypeScript", "Tailwind"],
+  backend: ["Node.js", "Express", "NestJS"],
+  database: ["MongoDB", "MySQL", "Firebase"],
+  web3: ["MetaMask"],
+  motto: "I am always learning 🧠",
+};
+```
 
-<a href="https://github.com/amontheptanlaeo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amontheptanlaeo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- 🌍 Based in **Bangkok**
+- 🖥️ Portfolio → **[amonthep-port.netlify.app](https://amonthep-port.netlify.app/)**
+- ✉️ Contact → **[amontheptanlaeo111@gmail.com](mailto:amontheptanlaeo111@gmail.com)**
+- ⚡ Fun fact: coffee in, code out ☕
 
-### Support Me
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,tailwind,sass,bootstrap,materialui&perline=11" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,firebase&perline=11" />
+
+**Tools & Deploy**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,heroku,netlify,vercel&perline=11" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amontheptanlaeo&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amontheptanlaeo&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amontheptanlaeo&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=amontheptanlaeo&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ☕ Support Me
 
 <a href="https://www.buymeacoffee.com/amonthep.ta"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+</div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0891b2&height=120&section=footer" width="100%" />
